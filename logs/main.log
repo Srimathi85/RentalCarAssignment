@@ -1,0 +1,447 @@
+2021-05-15 20:51:25 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 20:52:20 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 20:53:34 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 20:58:48 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 21:08:11 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 21:13:38 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 22:13:22 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 22:17:23 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 22:51:45 INFO  RentalCarTests:49 - Status code :200
+2021-05-15 22:51:45 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 22:52:29 INFO  RentalCarTests:49 - Status code :200
+2021-05-15 22:52:30 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 23:04:41 INFO  RentalCarTests:49 - Status code :200
+2021-05-15 23:04:42 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 23:09:38 INFO  RentalCarTests:49 - Status code :200
+2021-05-15 23:09:39 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 23:12:28 INFO  RentalCarTests:49 - Status code :200
+2021-05-15 23:12:29 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 23:28:23 INFO  RentalCarTests:49 - Status code :200
+2021-05-15 23:28:24 INFO  RentalCarTests:52 - The Car detail of Lowest rent per day is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-15 23:28:24 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 23:30:03 INFO  RentalCarTests:49 - Status code :200
+2021-05-15 23:30:04 INFO  RentalCarTests:52 - The Car detail of Lowest rent per day is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-15 23:30:04 INFO  RentalCarTests:32 - Server is stopped
+2021-05-15 23:45:41 INFO  RentalCarTests:49 - Status code :200
+2021-05-15 23:45:42 INFO  RentalCarTests:52 - The Car detail of Lowest rent per day is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-15 23:45:42 INFO  ResponseUtility:46 - Per Day Rent List After discount :[137.0, 107.0, 150.0, 101.0, 104.0, 81.0]
+2021-05-15 23:45:43 INFO  RentalCarTests:55 - The Car detail of Lowest rent per day after the discount is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-15 23:45:43 INFO  RentalCarTests:32 - Server is stopped
+2021-05-16 00:15:16 INFO  RentalCarTests:61 - Status code :200
+2021-05-16 00:15:17 INFO  ResponseUtility:65 - Year Maintenance Cost List : [4517.19, 4411.19, 4637.19, 4838.19, 4701.19, 5447.19]
+2021-05-16 00:15:17 INFO  RentalCarTests:32 - Server is stopped
+2021-05-16 00:24:30 INFO  RentalCarTests:61 - Status code :200
+2021-05-16 00:24:31 INFO  ResponseUtility:64 - Year Maintenance Cost List : [4517.19, 4411.19, 4637.19, 4838.19, 4701.19, 5447.19]
+2021-05-16 00:24:31 INFO  RentalCarTests:64 - High Revenue Car Detail is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98L, metadata={Color=Blue, Notes=Scratches on the front left side door of the car}, perdayrent={Price=125, Discount=15}, metrics={yoymaintenancecost=2150.76, depreciation=2260.43, rentalcount={lastweek=4, yeartodate=220}}}
+2021-05-16 00:24:31 INFO  RentalCarTests:32 - Server is stopped
+2021-05-16 00:26:08 INFO  RentalCarTests:30 - Response is :{"Car" : [{
+  "make": "Audi",
+  "model": "A7",
+  "vin": "09AGHY64352JITEG98K",
+  "metadata": {
+    "Color": "Black",
+    "Notes": "Scratches on the front side of the car"
+  },
+  "perdayrent": {
+    "Price": 155,
+    "Discount": 12
+  },
+  "metrics": {
+    "yoymaintenancecost": 2290.76,
+    "depreciation": 2226.43,
+    "rentalcount": {
+      "lastweek": 4,
+      "yeartodate": 221
+    }
+  }
+},
+{
+  "make": "Tesla",
+  "model": "A7",
+  "vin": "09AGHY64352JITEG98L",
+  "metadata": {
+    "Color": "Blue",
+    "Notes": "Scratches on the front left side door of the car"
+  },
+  "perdayrent": {
+    "Price": 125,
+    "Discount": 15
+  },
+  "metrics": {
+    "yoymaintenancecost": 2150.76,
+    "depreciation": 2260.43,
+    "rentalcount": {
+      "lastweek": 4,
+      "yeartodate": 220
+    }
+  }
+},
+  {
+    "make": "Tesla",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98M",
+    "metadata": {
+      "Color": "Blue",
+      "Notes": "Scratches on the front side of the car"
+    },
+    "perdayrent": {
+      "Price": 170,
+      "Discount": 12
+    },
+    "metrics": {
+      "yoymaintenancecost": 2290.76,
+      "depreciation": 2346.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 220
+      }
+    }
+  },{
+    "make": "BMW",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98N",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the  side of the car"
+    },
+    "perdayrent": {
+      "Price": 120,
+      "Discount": 16
+    },
+    "metrics": {
+      "yoymaintenancecost": 2230.76,
+      "depreciation": 2607.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 220
+      }
+    }
+  },
+  {
+    "make": "Honda",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98K",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the front side  door of the car"
+    },
+    "perdayrent": {
+      "Price": 130,
+      "Discount": 20
+    },
+    "metrics": {
+      "yoymaintenancecost": 2400.76,
+      "depreciation": 2300.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 218
+      }
+    }
+  },
+  {
+    "make": "Tesla",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98O",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the back side of the car"
+    },
+    "perdayrent": {
+      "Price": 100,
+      "Discount": 19
+    },
+    "metrics": {
+      "yoymaintenancecost": 3190.76,
+      "depreciation": 2256.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 219
+      }
+    }
+  }
+    ]}
+2021-05-16 00:26:08 INFO  RentalCarTests:32 - Status code :200
+2021-05-16 00:26:08 INFO  RentalCarTests:42 - Status code :200
+2021-05-16 00:26:09 INFO  ResponseUtility:14 - Cars make list :[Audi, Tesla, Tesla, BMW, Honda, Tesla]
+2021-05-16 00:26:10 INFO  RentalCarTests:49 - Status code :200
+2021-05-16 00:26:10 INFO  RentalCarTests:52 - The Car detail of Lowest rent per day is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-16 00:26:10 INFO  ResponseUtility:46 - Per Day Rent List After discount :[137.0, 107.0, 150.0, 101.0, 104.0, 81.0]
+2021-05-16 00:26:10 INFO  RentalCarTests:55 - The Car detail of Lowest rent per day after the discount is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-16 00:26:10 INFO  RentalCarTests:61 - Status code :200
+2021-05-16 00:26:10 INFO  ResponseUtility:64 - Year Maintenance Cost List : [4517.19, 4411.19, 4637.19, 4838.19, 4701.19, 5447.19]
+2021-05-16 00:26:10 INFO  RentalCarTests:64 - High Revenue Car Detail is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98L, metadata={Color=Blue, Notes=Scratches on the front left side door of the car}, perdayrent={Price=125, Discount=15}, metrics={yoymaintenancecost=2150.76, depreciation=2260.43, rentalcount={lastweek=4, yeartodate=220}}}
+2021-05-16 00:26:10 INFO  RentalCarTests:32 - Server is stopped
+2021-05-16 00:28:10 INFO  RentalCarTests:30 - Response is :{"Car" : [{
+  "make": "Audi",
+  "model": "A7",
+  "vin": "09AGHY64352JITEG98K",
+  "metadata": {
+    "Color": "Black",
+    "Notes": "Scratches on the front side of the car"
+  },
+  "perdayrent": {
+    "Price": 155,
+    "Discount": 12
+  },
+  "metrics": {
+    "yoymaintenancecost": 2290.76,
+    "depreciation": 2226.43,
+    "rentalcount": {
+      "lastweek": 4,
+      "yeartodate": 221
+    }
+  }
+},
+{
+  "make": "Tesla",
+  "model": "A7",
+  "vin": "09AGHY64352JITEG98L",
+  "metadata": {
+    "Color": "Blue",
+    "Notes": "Scratches on the front left side door of the car"
+  },
+  "perdayrent": {
+    "Price": 125,
+    "Discount": 15
+  },
+  "metrics": {
+    "yoymaintenancecost": 2150.76,
+    "depreciation": 2260.43,
+    "rentalcount": {
+      "lastweek": 4,
+      "yeartodate": 220
+    }
+  }
+},
+  {
+    "make": "Tesla",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98M",
+    "metadata": {
+      "Color": "Blue",
+      "Notes": "Scratches on the front side of the car"
+    },
+    "perdayrent": {
+      "Price": 170,
+      "Discount": 12
+    },
+    "metrics": {
+      "yoymaintenancecost": 2290.76,
+      "depreciation": 2346.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 220
+      }
+    }
+  },{
+    "make": "BMW",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98N",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the  side of the car"
+    },
+    "perdayrent": {
+      "Price": 120,
+      "Discount": 16
+    },
+    "metrics": {
+      "yoymaintenancecost": 2230.76,
+      "depreciation": 2607.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 220
+      }
+    }
+  },
+  {
+    "make": "Honda",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98K",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the front side  door of the car"
+    },
+    "perdayrent": {
+      "Price": 130,
+      "Discount": 20
+    },
+    "metrics": {
+      "yoymaintenancecost": 2400.76,
+      "depreciation": 2300.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 218
+      }
+    }
+  },
+  {
+    "make": "Tesla",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98O",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the back side of the car"
+    },
+    "perdayrent": {
+      "Price": 100,
+      "Discount": 19
+    },
+    "metrics": {
+      "yoymaintenancecost": 3190.76,
+      "depreciation": 2256.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 219
+      }
+    }
+  }
+    ]}
+2021-05-16 00:28:10 INFO  RentalCarTests:32 - Status code :200
+2021-05-16 00:28:11 INFO  RentalCarTests:42 - Status code :200
+2021-05-16 00:28:12 INFO  ResponseUtility:14 - Cars make list :[Audi, Tesla, Tesla, BMW, Honda, Tesla]
+2021-05-16 00:28:12 INFO  RentalCarTests:49 - Status code :200
+2021-05-16 00:28:12 INFO  RentalCarTests:52 - The Car detail of Lowest rent per day is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-16 00:28:12 INFO  ResponseUtility:46 - Per Day Rent List After discount :[137.0, 107.0, 150.0, 101.0, 104.0, 81.0]
+2021-05-16 00:28:13 INFO  RentalCarTests:55 - The Car detail of Lowest rent per day after the discount is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-16 00:28:13 INFO  RentalCarTests:61 - Status code :200
+2021-05-16 00:28:13 INFO  ResponseUtility:64 - Year Maintenance Cost List : [4517.19, 4411.19, 4637.19, 4838.19, 4701.19, 5447.19]
+2021-05-16 00:28:13 INFO  RentalCarTests:64 - High Revenue Car Detail is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98L, metadata={Color=Blue, Notes=Scratches on the front left side door of the car}, perdayrent={Price=125, Discount=15}, metrics={yoymaintenancecost=2150.76, depreciation=2260.43, rentalcount={lastweek=4, yeartodate=220}}}
+2021-05-16 00:28:13 INFO  RentalCarTests:32 - Server is stopped
+2021-05-16 00:34:53 INFO  RentalCarTests:30 - Response is :{"Car" : [{
+  "make": "Audi",
+  "model": "A7",
+  "vin": "09AGHY64352JITEG98K",
+  "metadata": {
+    "Color": "Black",
+    "Notes": "Scratches on the front side of the car"
+  },
+  "perdayrent": {
+    "Price": 155,
+    "Discount": 12
+  },
+  "metrics": {
+    "yoymaintenancecost": 2290.76,
+    "depreciation": 2226.43,
+    "rentalcount": {
+      "lastweek": 4,
+      "yeartodate": 221
+    }
+  }
+},
+{
+  "make": "Tesla",
+  "model": "A7",
+  "vin": "09AGHY64352JITEG98L",
+  "metadata": {
+    "Color": "Blue",
+    "Notes": "Scratches on the front left side door of the car"
+  },
+  "perdayrent": {
+    "Price": 125,
+    "Discount": 15
+  },
+  "metrics": {
+    "yoymaintenancecost": 2150.76,
+    "depreciation": 2260.43,
+    "rentalcount": {
+      "lastweek": 4,
+      "yeartodate": 220
+    }
+  }
+},
+  {
+    "make": "Tesla",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98M",
+    "metadata": {
+      "Color": "Blue",
+      "Notes": "Scratches on the front side of the car"
+    },
+    "perdayrent": {
+      "Price": 170,
+      "Discount": 12
+    },
+    "metrics": {
+      "yoymaintenancecost": 2290.76,
+      "depreciation": 2346.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 220
+      }
+    }
+  },{
+    "make": "BMW",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98N",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the  side of the car"
+    },
+    "perdayrent": {
+      "Price": 120,
+      "Discount": 16
+    },
+    "metrics": {
+      "yoymaintenancecost": 2230.76,
+      "depreciation": 2607.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 220
+      }
+    }
+  },
+  {
+    "make": "Honda",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98K",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the front side  door of the car"
+    },
+    "perdayrent": {
+      "Price": 130,
+      "Discount": 20
+    },
+    "metrics": {
+      "yoymaintenancecost": 2400.76,
+      "depreciation": 2300.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 218
+      }
+    }
+  },
+  {
+    "make": "Tesla",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98O",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the back side of the car"
+    },
+    "perdayrent": {
+      "Price": 100,
+      "Discount": 19
+    },
+    "metrics": {
+      "yoymaintenancecost": 3190.76,
+      "depreciation": 2256.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 219
+      }
+    }
+  }
+    ]}
+2021-05-16 00:34:53 INFO  RentalCarTests:32 - Status code :200
+2021-05-16 00:34:53 INFO  RentalCarTests:42 - Status code :200
+2021-05-16 00:34:55 INFO  ResponseUtility:14 - Cars make list :[Audi, Tesla, Tesla, BMW, Honda, Tesla]
+2021-05-16 00:34:55 INFO  RentalCarTests:49 - Status code :200
+2021-05-16 00:34:55 INFO  RentalCarTests:52 - The Car detail of Lowest rent per day is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-16 00:34:55 INFO  ResponseUtility:46 - Per Day Rent List After discount :[137.0, 107.0, 150.0, 101.0, 104.0, 81.0]
+2021-05-16 00:34:55 INFO  RentalCarTests:55 - The Car detail of Lowest rent per day after the discount is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98O, metadata={Color=Black, Notes=Scratches on the back side of the car}, perdayrent={Price=100, Discount=19}, metrics={yoymaintenancecost=3190.76, depreciation=2256.43, rentalcount={lastweek=4, yeartodate=219}}}
+2021-05-16 00:34:55 INFO  RentalCarTests:61 - Status code :200
+2021-05-16 00:34:55 INFO  ResponseUtility:64 - Year Maintenance Cost List : [4517.19, 4411.19, 4637.19, 4838.19, 4701.19, 5447.19]
+2021-05-16 00:34:55 INFO  RentalCarTests:64 - High Revenue Car Detail is : {make=Tesla, model=A7, vin=09AGHY64352JITEG98L, metadata={Color=Blue, Notes=Scratches on the front left side door of the car}, perdayrent={Price=125, Discount=15}, metrics={yoymaintenancecost=2150.76, depreciation=2260.43, rentalcount={lastweek=4, yeartodate=220}}}
+2021-05-16 00:34:55 INFO  RentalCarTests:32 - Server is stopped

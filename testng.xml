@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FrameworkSalesForce">
+    <test name="api.rentalcar.testcases.RentalCarTests">
+        <classes>
+            <class name="api.rentalcar.testcases.RentalCarTests">
+
+            </class>
+        </classes>
+    </test>
+</suite>
